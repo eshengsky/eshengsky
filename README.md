@@ -1,5 +1,5 @@
 ### 关于我
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eshengsky&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eshengsky&show_icons=true&theme=vue&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&locale=cn&line_height=28" />
 
 📫 曾就职于明基、微软、5173、驴妈妈、平安等，现为某互联网公司前端技术专家。  
 ⚡ 对C#、.NET、Vue、React、JavaScript、TypeScript、CSS等前后端技术都略懂一点。  

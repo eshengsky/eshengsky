@@ -1,7 +1,7 @@
 ### 关于我
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=eshengsky&show_icons=true&theme=vue&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&locale=cn&line_height=22" />
 
-📫 曾就职于明基、微软、5173、驴妈妈、平安等，现为某互联网公司前端技术专家。  
+📫 曾就职于明基、微软、5173、驴妈妈、平安等，现为蔚来资深工程师。  
 ⚡ 对C#、.NET、Vue、React、JavaScript、TypeScript、CSS等前后端技术都略知一二。  
 😄 爱好上网、游戏、看小说，喜欢尝试新的事物。  
 💬 你可以通过邮件 eshengsky@163.com 找到我。
